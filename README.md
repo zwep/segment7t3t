@@ -1,0 +1,1 @@
+Project about segmentation of 7T images with low field strength data
